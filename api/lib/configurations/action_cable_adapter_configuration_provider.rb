@@ -24,7 +24,8 @@ class ActionCableAdapterConfigurationProvider
   def redis_adapter
     {
       adapter: 'redis',
-      url: RedisConfigurationProvider.new.redis_config
+      url: RedisConfigurationProvider.new.redis_config,
+      ssl_params: { verify_mode: OpenSSL::SSL::VERIFY_NONE }
     }
   end
 end
