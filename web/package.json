@@ -6,7 +6,7 @@
     "actioncable": "^5.2.6",
     "foundation-sites": "6.6.3",
     "grapnel": "0.7.2",
-    "http-proxy-middleware": "^2.0.0",
+    "http-proxy-middleware": "^2.0.7",
     "material-ui": "^0.20.2",
     "mixpanel-browser": "^2.41.0",
     "node-sass": "^5.0.0",
@@ -18,7 +18,7 @@
     "react-helmet": "^6.1.0",
     "react-hotkeys": "^2.0.0",
     "react-redux": "^7.2.4",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^5.0.1",
     "react-scroll": "^1.8.2",
     "redux": "^4.1.0"
   },
